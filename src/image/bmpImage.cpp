@@ -1,6 +1,6 @@
 #include <map>
 #include <cmath>
-#include "bmpIMage.h"
+#include "bmpImage.h"
 
 uint8_t *BmpImage::dumpImageInBinaryArray()
 {
