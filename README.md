@@ -12,4 +12,5 @@ Here is a list of params that can be used:
 --channel <channel> #To specify the color channel to use when drawing the pattern
 --transparent #To specify that we want the pattern to use transparency
 --thickness <number> #Pattern specifc, only matters when using patterns sush as linemess
+--wrap #Makes the pattern into a wrappable texture
 ```
